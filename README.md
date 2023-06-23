@@ -20,7 +20,7 @@ This repository contains a Flutter application that allows you to display all av
 
 To get started with the app, follow these steps:
 
-1. Clone this repository to your local machine using the following command
+1. Clone this repository to your local machine.
 
 2. Make sure you have Flutter and Dart installed on your machine. You can follow the official Flutter installation guide for instructions: [Flutter Installation](https://flutter.dev/docs/get-started/install)
 
